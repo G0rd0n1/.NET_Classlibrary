@@ -1,9 +1,10 @@
 # .NET_Classlibrary
-Introduction to Microsoft .NET class library using Visual Studios for Quality Assurance  
+Microsoft .NET class library using Visual Studios for Quality Assurance
 
 ## Introduction
+In this project, I created a solution, added a library project, and added a console app project that uses the library.
 
-In this project I started working with the .NET class library. It is my first time tackling Quality Assurance but so far I have enjoyed the introduction and hope to continue working on improvements within this project and further projects.
+I started working with the .NET class library. It is my first time tackling Quality Assurance but so far I have enjoyed the introduction and hope to continue working on improvements within this project and further projects.
 
 ## Create a Solution
 
