@@ -1,0 +1,5 @@
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/StringLibraryTest/obj/Debug/net6.0/StringLibraryTest.csproj.AssemblyReference.cache
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/StringLibraryTest/obj/Debug/net6.0/StringLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/StringLibraryTest/obj/Debug/net6.0/StringLibraryTest.AssemblyInfoInputs.cache
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/StringLibraryTest/obj/Debug/net6.0/StringLibraryTest.AssemblyInfo.cs
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/StringLibraryTest/obj/Debug/net6.0/StringLibraryTest.csproj.CoreCompileInputs.cache
