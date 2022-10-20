@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dm+8JIKMjws4TtaN4BbXYimmwg5Q+NV2Wt8K4SeLN2MPlhpZbo0XFTbrqgv6YnnQQzECYaSUNoT9Q0pi2TKYlg==",
+  "dgSpecHash": "dOjhtEzcWhVcQG/PyPhLPM6X3ouYQps3vx6aNxY5iyGVCkzo5qozeM/3BW1/49PTqynS4UOLhfY5nHkGKVEw8A==",
   "success": true,
-  "projectFilePath": "/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/ClassLibraryProjects.fsproj",
+  "projectFilePath": "/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/NUnit-Tests/NUnit-Tests.csproj",
   "expectedPackageFiles": [
     "/home/gordon/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
-    "/home/gordon/.nuget/packages/fsharp.core/6.0.6/fsharp.core.6.0.6.nupkg.sha512",
     "/home/gordon/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
     "/home/gordon/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/home/gordon/.nuget/packages/microsoft.net.test.sdk/17.1.0/microsoft.net.test.sdk.17.1.0.nupkg.sha512",

@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/ClassLibraryProjects.fsproj": {}
+  },
+  "projects": {
+    "/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/ClassLibraryProjects.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/ClassLibraryProjects.fsproj",
+        "projectName": "ClassLibraryProjects",
+        "projectPath": "/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/ClassLibraryProjects.fsproj",
+        "packagesPath": "/home/gordon/.nuget/packages/",
+        "outputPath": "/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gordon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/sdk/6.0.402/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.6, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )",
+              "generatePathProperty": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )",
+              "generatePathProperty": true
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )",
+              "generatePathProperty": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )",
+              "generatePathProperty": true
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
