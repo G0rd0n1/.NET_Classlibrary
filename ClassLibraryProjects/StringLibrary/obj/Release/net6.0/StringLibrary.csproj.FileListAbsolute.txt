@@ -1,0 +1,12 @@
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.deps.json
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.dll
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.pdb
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.csproj.AssemblyReference.cache
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.AssemblyInfoInputs.cache
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.AssemblyInfo.cs
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.csproj.CoreCompileInputs.cache
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.dll
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/refint/StringLibrary.dll
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.pdb
+/home/gordon/School/Code/QualityAssurance/NET/NET_Classlibrary/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/ref/StringLibrary.dll
